@@ -1,0 +1,7 @@
+locationURL = "http://freegeoip.net/json/"
+dasherURL = "https://api.doordash.com/v1/dashers/me/"
+profileInformationURL = "https://api.doordash.com/v1/dashers/me/"
+authenticateURL = "https://api.doordash.com/v2/auth/token/"
+ratingsURL = "https://api.doordash.com/v1/dashers/me/rating"
+earningsURL = "https://api.doordash.com/v1/dashers/me/earnings"
+weeklyEarningsURL = "https://api.doordash.com/v1/dashers/me/earnings_weekly/"
